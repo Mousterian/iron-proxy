@@ -1,0 +1,8 @@
+[package]
+name = "iron-proxy"
+version = "0.1.0"
+authors = ["Mousterian <psandison@hotmail.com>"]
+
+[dependencies]
+iron = "0.4.0"
+hyper = "0.9.10"
